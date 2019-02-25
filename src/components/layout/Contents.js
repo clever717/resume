@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import AboutMe from '../content/AboutMe'
 import LatestProjects from "../content/LatestProjects";
-import OtherProjects from "../content/OtherProjects";
 import WorkExperience from "../content/WorkExperience";
 import MyGithub from "../content/MyGithub";
 import BasicInformation from "../content/BasicInformation";
@@ -17,8 +16,6 @@ class Contents extends Component {
                         <AboutMe/>
 
                         <LatestProjects/>
-
-                        <OtherProjects/>
 
                         <WorkExperience/>
 

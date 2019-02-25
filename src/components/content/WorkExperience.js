@@ -8,33 +8,17 @@ class WorkExperience extends Component {
                     <h2 className="heading">Work Experience</h2>
                     <div className="content">
                         <div className="item">
-                            <h3 className="title">Co-Founder & Lead Developer - <span className="place"><a href="#">Startup Hub</a></span>
-                                <span className="year">(2014 - Present)</span></h3>
-                            <p>Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante,
-                                dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius
-                                laoreet.
-                                Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci
-                                eget eros
-                                faucibus tincidunt.</p>
-                        </div>
-                        <div className="item">
                             <h3 className="title">Software Engineer - <span className="place"><a
-                                href="#">Google</a></span>
-                                <span className="year">(2013 - 2014)</span></h3>
-                            <p>Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu
-                                suscipit
-                                pellentesque, mauris dui tincidunt enim. Sed fringilla mauris sit amet nibh. Donec
-                                sodales
-                                sagittis magna.</p>
+                                href="http://allwinair.com">(주)올윈웨어 </a></span>
+                                <span className="year">(2017.03.27 - now)</span></h3>
+                            <p>Technical Dev. Team - 대리</p>
                         </div>
 
                         <div className="item">
                             <h3 className="title">Software Engineer - <span className="place"><a
-                                href="#">eBay</a></span>
-                                <span className="year">(2012 - 2013)</span></h3>
-                            <p>Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet
-                                adipiscing
-                                sem neque sed ipsum.</p>
+                                href="http://www.etoursoft.co.kr/">(주)투어소프트 </a></span>
+                                <span className="year">(2013.01.15 - 2017.03.25)</span></h3>
+                            <p>IBE팀 - 대리</p>
                         </div>
 
                     </div>
